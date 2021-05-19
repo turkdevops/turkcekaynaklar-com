@@ -26,6 +26,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [D](#d)
 - [Dart](#dart)
 - [Deep Learning](#deep-learning)
+- [Design Patterns](#design-patterns)
 - [Django](#django)
 - [Docker](#docker)
 - [Electron](#electron)
@@ -117,6 +118,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Angular Lazy Loading Modules nedir? Nasıl kullanılır?](https://kodumunblogu.net/detail/angular-lazy-loading-modules-nedir-nasil-kullanilir-acilis-hizini-etkiler-mi)
 - [Mobilhanem Angular](https://www.mobilhanem.com/angular-egitimi/)
 - :movie_camera: [Angular 7 Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUOaq1ZiQEYBzVAKEB8BVL8) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- [Cloud Firestore ile Angular Kullanımı](https://www.buraksenyurt.com/post/cloud-firestore-ile-angular-kullanimi)
+- [Angular ile Chart.js Kütüphanesi Kullanarak Grafik Oluşturmak](https://onuriart.medium.com/angular-ile-chart-js-k%C3%BCt%C3%BCphanesi-kullanarak-grafik-olu%C5%9Fturmak-16d79a42fe4c)
 
 
 
@@ -129,6 +132,16 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Açık akademi ASP.NET MVC Eğitimi](https://www.acikakademi.com/portal/egitimler/aspnet-mvc-ile-ileri-seviyede-web-programlama.aspx)
 - :movie_camera: [ASP.NET MVC Dersleri](https://www.youtube.com/watch?v=-Fgpo2HvGIE&list=PLpiXyP9d3U1pUCEi8-S2pXzQchNuqJ3Kp) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 - :movie_camera: [ASP.NET CORE WEB API Dersleri](https://www.youtube.com/watch?v=paI5DZq79uw&list=PLpiXyP9d3U1q251izX5xLHctZEmb8REr_) - [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
+- [ASP.NET Uygulamalarında IHttpClient Kullanımı](https://www.ilkayilknur.com/aspnet-core-uygulamalarinda-ihttpclientfactory-kullanimi) - [İlkay İlknur](https://www.youtube.com/user/ilkayilknur)
+- [ASP.NET MVC'de Custom Filter Kullanımı](https://abdurrahman.github.io/2015/07/asp-net-mvcde-custom-filter-kullanimi/) - [Abdurrahman Işık](https://abdurrahman.github.io)
+- [Swagger Nedir? .NET Core Swagger Entegrasyonu](https://medium.com/gdgsivas/swagger-nedir-net-core-swagger-entegrasyonu-67c678f8056a) - [Abdullah Öztürk](https://abdullahozturkk.medium.com/)
+- [.Net Core ve MediatR ile CQRS Pattern Kullanımı](https://hakantopuz.medium.com/net-core-ve-mediatr-ile-cqrs-pattern-kullan%C4%B1m%C4%B1-d2e5edc4fd07) - [Hakan Topuz](https://hakantopuz.medium.com)
+- [Distributed Cache ile .Net Core Web API Response Caching](https://mehmetcantas.medium.com/distributed-cache-ile-net-core-web-api-response-caching-9f8434d401bf) - [Mehmet Can Taş](https://mehmetcantas.medium.com/)
+- [CQRS ( Command Query Responsibility Segregation) Nedir?](https://medium.com/gdgsivas/cqrs-command-query-responsibility-segregation-nedir-6619e765bbf3) - [Abdullah Öztürk](https://abdullahozturkk.medium.com/)
+- [Asp.Net Core Uygulamalarında Autofac Kullanımı](http://www.canertosuner.com/post/asp-net-core-uygulamalarinda-farkli-di-ioc-containerlar-nasil-kullanilir) - [Caner Tosuner](http://www.canertosuner.com)
+- [Teknik Muhabbetler #3 (CQRS)](https://medium.com/mobiroller-tech/teknik-muhabbetler-3-cqrs-dfc32f44280e) - [Furkan Güngör](https://furkan-dvlp.medium.com/)
+- [Hangfire Ve .Net/.Net Core Console App ile Currency Reporter](https://gcifguvercin.medium.com/hangfire-ve-net-net-core-console-app-ile-currency-reporter-5342764b0f0f) - [Gizem Cifgüvercin](https://gcifguvercin.medium.com)
+
 
 ### Arduino
 - [Arduino - Robotistan](https://maker.robotistan.com/kategori/arduino/)
@@ -224,6 +237,8 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 ### Deep Learning
 - [Türkçe Yapay Zeka Kaynakları](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari)
 
+### Design Patterns
+- [Strategy Design Pattern](https://medium.com/yaz%C4%B1l%C4%B1ma-dair/strategy-design-pattern-29fce07f2a9b)
 
 ### Django
 - :movie_camera: [Django 101](https://www.youtube.com/watch?v=L-26ZJ3s6Mc&index=1&list=PLJeh-dT_Z82vvyYXmp1auK6A6e3aDlgCG&t=8s) - [Tolgahan Üzün](https://twitter.com/tlghnzn)
@@ -243,12 +258,15 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - :movie_camera: [Docker Öğreniyorum](https://www.youtube.com/watch?v=isbsABbZghs&list=PL_Z0TaFYSF3LTfMIRjPUlVoUipQA0JlL2) - [Tarık Güney](https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA)
 - [Yeni Nesil Geliştirme Ortamı Docker Serisi](https://oguzcandemircan.com/yeni-nesil-gelistirme-ortami-bolum-1-docker) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 - [Docker ile Vue Js Projesi Nasıl Oluşturulur, Geliştirilir ve Yayınlanır?](https://oguzcandemircan.com/docker-ile-vuejs-projesi-nasil-olusturulur-gelistirlir-ve-yayinlanir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
+- [.NET Core Web Api Uygulaması Docker ile Nasıl Deploy Edilir?](https://gokhanatan.medium.com/net-core-web-api-uygulamas%C4%B1-docker-ile-nas%C4%B1l-deploy-edilir-e56f5a75e386) - [Gökhan Atan](https://gokhanatan.medium.com)
+- [Toz ve gaz bulutundan üretim ortamına; Asp.Net Core ve Docker ile CI/CD](https://medium.com/@onselakin/toz-ve-gaz-bulutundan-%C3%BCretim-ortam%C4%B1na-asp-net-core-ve-docker-ile-ci-cd-b%C3%B6l%C3%BCm-1-9c4d3abc8db0) - [Önsel Akın](https://medium.com/@onselakin)
 
 
 
 ### Electron
 - [Electron Kullanarak Hem Masaüstü Hem Tarayıcı Uygulaması Geliştirme](http://www.avarekodcu.com/konu/28/electron-react-webpack-ve-babel-kullanarak-hem-masaustu-hem-tarayici-uygulamasi-gelistirme) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
 - [Electron Uygulamasının, Dağıtma ve Güncelleme Senaryoları](http://www.avarekodcu.com/konu/29/electron-uygulamasinin-dagitma-ve-guncelleme-senaryolari) - [Abdurrahman Eker](https://twitter.com/abdurrahmanekr)
+- :movie_camera: [Electron.js ile Masaüstü Uygulama Geliştirme](https://www.youtube.com/watch?v=qsM9ylyt7xw&list=PL_f2F0Oyaj48jgl98pHuoyxoTgi7gXJ-z) - [Gökhan Kandemir](https://www.youtube.com/c/kablosuzkedii)
 
 
 ### Flux
@@ -329,6 +347,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [HTML'de Örnek Yöntemler](https://github.com/umutphp/html-best-practices/blob/master/README.tr.md): Bakım yapılabilir ve ölçeklenebilir HTML belgeleri yazmak için takip edilebilecek örnek yöntemler - [Umut Işık](https://umuts.info)
 - :movie_camera: [HTML Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm) - [Prototürk - Yazılım ve Tasarım Dersleri](https://www.youtube.com/channel/UC1VAnqF9VLHNXngLwpov4kA)
 - [Html Dersleri](https://www.azkod.com/html)
+- [HTML | Giriş (Kodluyoruz)](https://www.youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-)
 
 ### Ionic
 - [Ionic 4 ve Angular ile Mobil Uygulama Geliştirmek](https://medium.com/@clkgkhn/ionic-4-ve-angular-ile-mobil-uygulama-geli%C5%9Ftirmek-6e64d7585e3d) - [Gökhan Çelik](https://github.com/gokhancelik)
@@ -503,6 +522,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Postgres
 - [PostgreSQL 12'de Streaming Replication İşlemleri](https://medium.com/@aydemirzekiye/postgresql-12de-streaming-replication-i%CC%87%C5%9Flemleri-40f792a8141b?) - [Zekiye Aydemir](https://twitter.com/pgElephant)
+- [.NET Core ile PostgreSQL Kullanımı](https://medium.com/@isikabdurrahman/net-core-ile-postgresql-kullan%C4%B1m%C4%B1-7aa025ec9123) - [Abdurrahman Işık](https://medium.com/@isikabdurrahman)
 
 
 ### PowerShell 
@@ -518,6 +538,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Türkçe Python Kaynakları](https://github.com/ibrahimirdem/turkce-python-kaynaklari)
 - [Python Programlama Dili](https://medium.com/@halilozel1903/python-programlama-dili-1f1d88ef1e1d) - [Halil ÖZEL](https://github.com/halilozel1903)
 - :movie_camera: [6 Saatlik Python Eğitimi](https://www.youtube.com/watch?v=6IWpowC2ryc) - [Engin Demiroğ](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
+- :movie_camera: [15 Saatlik Python Eğitim Serisi - Yakın Kampüs](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 
 
 ### Rails
@@ -630,6 +651,10 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### Vault
 - [Vault Başlangıç Kılavuzu](https://github.com/zekiunal/vault)
+
+
+### Veri Bilimi (Data Science)
+- [Veri Bilimine Giriş](https://www.patika.dev/egitimler/veri-bilimi-patikasi)
 
 
 ### Vim
@@ -801,6 +826,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [AliDogan.Kim](https://www.youtube.com/channel/UCcMFIxBVd6sHbJ-78xbCCng)
 - [Yunus Eş](https://www.youtube.com/channel/UCJNdBzPQDvJG7ccPoMc59KQ)
 - [Soner Gönül](https://www.youtube.com/c/sonergonul)
+- [Kenan Yıldırım](https://www.youtube.com/channel/UC5e9IpXQjpCFEcu2J1FzxhA)
 
 
 ### Twitch Kanalları
